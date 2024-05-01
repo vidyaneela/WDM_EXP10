@@ -26,5 +26,14 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+```
+NAME : VIDYA NEELA M
+REG NO : 212221230120
+```
+![1](https://github.com/sithihajara/WDM_EXP10/assets/94219582/50d7bee7-8d55-45a2-a8ad-1c6cb072d3f1)
+![2](https://github.com/sithihajara/WDM_EXP10/assets/94219582/31c39477-a3e6-4f23-ab5d-b37de39952c3)
+![3](https://github.com/sithihajara/WDM_EXP10/assets/94219582/85f19019-de61-4e3a-9b55-9c36821d47da)
 
 ### Result:
+Thus sentimental analysis for twitter data is executed successfully using rapidminer.
+
